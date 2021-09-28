@@ -1,0 +1,1 @@
+The primary reason behind the popularity of Linux is the availability of compilers or interpreter. You don't have to download them yourself. On the other hand, Windows does not come with pre-installed compilers.
